@@ -23,6 +23,7 @@ Maybe some day I'll figure it out, but basically this add on is now installed -o
 
 # Tricks
 Interpret (e.g.) English source text as some other Roman-typed language (e.g. German).  For example, I started with the Tragedy of Darth Plagueis the Wise in English.  I chose German as source language, Chinese (Traditional) as destination language, and iterated 26 times.  The result was:
+
 Hast du von der Tragödie von Schädlingen gehört? Ich denke nicht. Dies ist nicht die Geschichte, die Jedi dir erzählt hat. Dies ist die Legende der Sith. "Prag" ist der dunkle König der Sith. Er ist sehr stark und schlau. Er kann Assassinen benutzen, um sein Leben zu erschaffen. Die dunkle Seite der Polizei ist, was viele Leute über nicht-natürliche Fähigkeiten denken. Er wurde so mächtig ... Das Einzige, woran er sich Sorgen machte, war, seine Kraft zu verlieren, natürlich verlor er seine Kraft. Leider brachte er seinem Lehrling sein Wissen bei, und dann tötete ihn sein Lehrling im Schlaf. Ironischerweise kann er andere vor dem Tod retten, aber nicht sich selbst
 
 Which I ran through regular ol' Google Translate to yield
