@@ -13,11 +13,11 @@ This Google App is supposed to be used as a Docs Add On.  I don't want to even t
 Maybe some day I'll figure it out, but basically this add on is now installed -only- for this single file.  This is why I said to name it something you'll remember - if you want to use the tool, you have to come back to this document unless you want to go through installation again...or if you're smarter than me and know how to expand the App's scope to all of your documents.
 
 # Use
-Hit Add-ons -> Bootleg Memes -> Start
-Select source and destination languages
-Use the slider to adjust the number of iterations - or type the desired number in directly (1 - 100)
-Hit translate
-The mangled text now sits before you
+1) Hit Add-ons -> Bootleg Memes -> Start
+2) Select source and destination languages
+3) Use the slider to adjust the number of iterations - or type the desired number in directly (1 - 100)
+4) Hit translate
+5) The mangled text now sits before you
 
 # Tricks
 Interpret (e.g.) English source text as some other Roman-typed language (e.g. German).  For example, I started with the Tragedy of Darth Plagueis the Wise in English.  I chose German as source language, Chinese (Traditional) as destination language, and iterated 26 times.  The result was:
