@@ -1,6 +1,8 @@
 # Bootleg-Memes
 Google App built directly on top of the Google Docs Translate Add-On example that iteratively re-translates text, for the sake of memes.
 
+I really want to thank the original author(s) of the example I shamelessly copied and is currently about 98% of this codebase.  The example can be found [here](https://developers.google.com/apps-script/quickstart/docs)
+
 # Installation
 This Google App is supposed to be used as a Docs Add On.  I don't want to even try to publish it as A) it looks like a hassle B) Google probably won't publish an almost literal copy of one of their examples C) I don't want to come up with a logo.  So the installation is manual, and pretty crappy.
 
